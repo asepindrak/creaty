@@ -1,5 +1,7 @@
-https://ollama.com/adens/creaty
+# Creaty
 
-#Installation
+![Creaty](creaty.png)
+
+## Installation
 1. Install ollama
-2. ollama run adens/creaty
+2. `ollama run adens/creaty`
