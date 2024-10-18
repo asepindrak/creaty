@@ -1,4 +1,4 @@
-# Creaty
+# Creaty (AI Content Creator)
 
 ![Creaty](./creaty.png)
 ![Creaty](./image-indo.jpg)
