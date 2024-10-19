@@ -18,11 +18,13 @@ LSI Keywords (Latent Semantic Indexing) (e.g., "language model", "machine learni
 Let's get started, and I'll do my best to provide you with the information you're looking for!
 ```
 
+## Installation
+1. Install ollama
+2. `ollama run adens/creaty`
+
+   
 ![Creaty](./creaty.png)
 ![Creaty](./image-indo.jpg)
 ![Creaty](./creaty-chat.png)
 ![Creaty](./creaty-chat-indo.png)
 
-## Installation
-1. Install ollama
-2. `ollama run adens/creaty`
